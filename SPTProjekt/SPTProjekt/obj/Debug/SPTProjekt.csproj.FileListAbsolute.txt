@@ -1,0 +1,7 @@
+C:\Users\Petra\Desktop\SPT-troj\SPTProjekt\SPTProjekt\bin\Debug\SPTProjekt.exe.config
+C:\Users\Petra\Desktop\SPT-troj\SPTProjekt\SPTProjekt\bin\Debug\SPTProjekt.exe
+C:\Users\Petra\Desktop\SPT-troj\SPTProjekt\SPTProjekt\bin\Debug\SPTProjekt.pdb
+C:\Users\Petra\Desktop\SPT-troj\SPTProjekt\SPTProjekt\obj\Debug\SPTProjekt.csprojResolveAssemblyReference.cache
+C:\Users\Petra\Desktop\SPT-troj\SPTProjekt\SPTProjekt\obj\Debug\SPTProjekt.csproj.CoreCompileInputs.cache
+C:\Users\Petra\Desktop\SPT-troj\SPTProjekt\SPTProjekt\obj\Debug\SPTProjekt.exe
+C:\Users\Petra\Desktop\SPT-troj\SPTProjekt\SPTProjekt\obj\Debug\SPTProjekt.pdb
